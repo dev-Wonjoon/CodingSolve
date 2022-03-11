@@ -27,6 +27,8 @@ public class Baekjoon2751 {
 	
 	static int[] Sorting(int[] arr) {
 		
+		int a;
+		
 		return arr;
 	}
 }
